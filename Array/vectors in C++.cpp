@@ -25,7 +25,7 @@ int main() {
     }
     cout << endl;
 
-    // Remember to free the allocated memory
+    // Free the allocated memory
     delete[] arr;
 
     // Call the function to create a vector and use its result
