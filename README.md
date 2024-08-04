@@ -4,9 +4,8 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This repository c
 
 ## Table of Contents
 
-- [https://github.com/Mansiiiiiiiiiiiiiiiii/DSA/tree/main/Recursion](#recursion)
-- [https://github.com/Mansiiiiiiiiiiiiiiiii/DSA/tree/main/Array](#arrays)
-- [https://github.com/Mansiiiiiiiiiiiiiiiii](#contributing)
+- [Recursion](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA/tree/main/Recursion)
+- [Arrays](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA/tree/main/Array)
 
 ## Recursion
 
