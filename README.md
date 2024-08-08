@@ -59,6 +59,6 @@ Contributions are welcome! If you'd like to add new topics or improve existing i
 
 ## Contact
 
-For questions or feedback, please open an issue on [GitHub Issues](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA/issues) or contact me via email at [mansi15094@gmail.com](mailto📬).
+For questions or feedback, please open an issue on [GitHub Issues](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA/issues) or contact me via email at [mansi15094@gmail.com](mailto:mansi15094@gmail.com).
 
 Happy coding!
