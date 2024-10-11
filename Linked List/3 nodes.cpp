@@ -3,8 +3,11 @@ using namespace std;
 struct Node{
 	int data;
 	struct Node *next; //Pointer
+	//self referential structure : every node needs to have address of 
+	// next node and the data type of next node is same as current node
 };
 int main(){
+	
 	struct Node* head =NULL;
 	struct Node* second = NULL;
 	struct Node* third = NULL;
