@@ -11,7 +11,6 @@ Welcome to the **DSA Repository**! This repository contains a collection of data
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🚀 Introduction
 
