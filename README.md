@@ -1,64 +1,72 @@
-# Data Structures and Algorithms (DSA) - C++ Implementation
+# Data Structures and Algorithms in C++
 
-Welcome to my C++ Data Structures and Algorithms (DSA) repository! This repository contains implementations and examples of key concepts in DSA using C++. The goal is to provide practical code snippets and explanations to help you understand and apply these fundamental concepts.
+Welcome to the **DSA Repository**! This repository contains a collection of data structures and algorithms implemented in C++. 
 
-## Current Topics
+## 📚 Table of Contents
 
-### 1. Recursion
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data Structures](#data-structures)
+- [Algorithms](#algorithms)
+- [Contributing](#contributing)
 
-Recursion is a powerful technique where a function calls itself to solve smaller instances of a problem. In this section, you'll find:
+## 🚀 Introduction
 
-- **Basic Recursive Functions:** Examples demonstrating simple recursive functions.
-- **Recursion in Algorithms:** Implementations of recursive algorithms.
-- **Common Recursive Patterns:** Patterns and strategies to effectively use recursion.
+Data structures and algorithms are the backbone of efficient programming. This repository serves as a comprehensive guide and practical resource, demonstrating various data structures and algorithms through clear and concise C++ code.
 
-### 2. Arrays
+## 🌟 Features
 
-Arrays are a fundamental data structure used to store collections of items. This section includes:
+- **Well-documented code**: Each implementation is accompanied by detailed comments and explanations.
+- **Wide range of algorithms**: Includes sorting, searching, dynamic programming, and more.
+- **User-friendly**: Easy-to-follow examples and clear usage instructions.
+- **Test cases**: Each data structure and algorithm comes with test cases to verify functionality.
 
-- **Basic Array Operations:** Examples showing how to create, access, and manipulate arrays.
-- **Array Algorithms:** Implementations of common algorithms such as sorting, searching, and rotating arrays.
-- **Dynamic Arrays:** Insights into dynamic array concepts and their benefits over static arrays.
+## 🛠️ Installation
 
-## Future Topics
+To get started with this repository, follow these simple steps:
 
-I plan to expand this repository with additional topics, including:
-
-- Linked Lists
-- Stacks and Queues
-- Trees and Graphs
-- Hashing and Hash Tables
-- Advanced Algorithms (e.g., Dynamic Programming, Greedy Algorithms)
-
-## Getting Started
-
-1. **Clone the Repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/Mansiiiiiiiiiiiiiiiii/DSA.git
    ```
-2. **Navigate to the Directory:**
+2. Navigate to the project directory:
    ```bash
    cd DSA
    ```
-3. **Compile and Run the Examples:**
-   You can compile the C++ files using a C++ compiler like `g++`. For example:
-   
+3. Compile the code:
    ```bash
-   g++ Equivalent Trail Recursive.cpp -o Recursion
-   ./Equivalent Trail Recursive
+   g++ -o main main.cpp
    ```
 
-## Contributing
+## 📈 Usage
 
-Contributions are welcome! If you'd like to add new topics or improve existing implementations, please:
+Once compiled, you can run the program:
 
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your modifications and test your changes.
-4. Submit a pull request with a description of the changes.
+```bash
+./main
+```
 
-## Contact
+Follow the prompts to explore various data structures and algorithms!
 
-For questions or feedback, please open an issue on [GitHub Issues](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA/issues) or contact me via email at [mansi15094@gmail.com](mailto:mansi15094@gmail.com).
+## 📊 Data Structures
 
-Happy coding!
+- **Array**
+- **Linked List**
+- **Stack**
+- **Queue**
+- **Tree**
+- **Graph**
+- **Hash Table**
+
+## ⚙️ Algorithms
+
+- **Sorting Algorithms**: Bubble Sort, Merge Sort, Quick Sort, etc.
+- **Searching Algorithms**: Binary Search, Linear Search, etc.
+- **Dynamic Programming**: Fibonacci Sequence, Knapsack Problem, etc.
+- **Graph Algorithms**: Dijkstra's, BFS, DFS, etc.
+
+## 🤝 Contributing
+
+If you have ideas, suggestions, or enhancements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
