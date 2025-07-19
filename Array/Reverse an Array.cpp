@@ -1,38 +1,31 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-// Function to reverse the array
-void reverse(int arr[], int n) {
-    int low = 0, high = n - 1;
-    while (low < high) {
-        swap(arr[low], arr[high]);
-        low++;
-        high--;
-    }
+void reverse(int arr[], int n){
+int start=0;
+int end = n-1;
+
+while(start<= end){
+	swap(arr[start], arr[end]);
+	start++;
+	end--;
+}	
 }
-
-int main() {
-    // Define an array for testing
-    int arr[] = {1, 2, 3, 4, 5};
-    int n = sizeof(arr) / sizeof(arr[0]);
-
-    // Display the original array
-    cout << "Original array: ";
-    for (int i = 0; i < n; i++) {
-        cout << arr[i] << " ";
-    }
-    cout << endl;
-
-    // Reverse the array
-    reverse(arr, n);
-
-    // Display the reversed array
-    cout << "Reversed array: ";
-    for (int i = 0; i < n; i++) {
-        cout << arr[i] << " ";
-    }
-    cout << endl;
-
-    return 0;
+void printArray(int arr[], int n){
+	for(int i=0; i<n ; i++){
+		cout<<arr[i]<<" ";
+	}
+	cout<<endl;
 }
-
+int main(){
+	int arr[6]= {1,4,0,5,-2,15};
+	int brr[5] = {2,6,3,9,4};
+	
+	reverse(arr,6);
+	reverse(brr, 5);
+	
+	printArray(arr, 6);
+	printArray(brr, 5);
+	
+	return 0;
+}
